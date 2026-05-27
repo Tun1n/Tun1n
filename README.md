@@ -50,7 +50,7 @@ Barra Bonita - SP (Brazil)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![ANDROID STUDIO](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### Banco de dados
+### Databases
 
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)
